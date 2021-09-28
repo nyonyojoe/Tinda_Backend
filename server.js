@@ -22,7 +22,7 @@ app.use(Cors());
 // Api Endpoints
 
 app.get('/',(req, res) => {
-   res.send("Do it mother Fucker")
+   res.send("Commitment, Dedication, persistence, resilience is key ")
 })      
 
 app.get('/tinda/card',(req, res) => {
